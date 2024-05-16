@@ -17,7 +17,7 @@ button {
 
 #header {
   padding: 10px;
-  color: #d36c6c;
+  color: #2b8339;
   font-size: 26px;
   font-family: sans-serif;
   display: flex;
@@ -32,7 +32,7 @@ button {
 #weekdays {
   width: 100%;
   display: flex;
-  color: #247ba0;
+  color: black;
 }
 #weekdays div {
   width: 100px;
@@ -111,7 +111,7 @@ button {
 }
 #saveButton,
 #closeButton {
-  background-color: #92a1d1;
+  background-color: #2b8339;
 }
 #eventText {
   font-size: 14px;
